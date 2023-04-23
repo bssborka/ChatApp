@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCLe9iV6gVRAl1ptjrQ+lthOLuyphRSzVz1JN8//fKeim5sOWvPP0ia1pGcRLND0jex1hef6alCNumlvl08MIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Borka\\Desktop\\ChatApp\\ChatServer\\ChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Borka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
